@@ -1,0 +1,15 @@
+#MainScreen{
+    position: absolute;
+    z-index: 1;
+    width: 910px;
+    height:910px;
+    background-color: #00ff00;
+}
+
+#GameOver{
+    top:-400px;
+    left: -1350px;
+    float: right;
+    z-index: 1;
+    position: relative;
+}
